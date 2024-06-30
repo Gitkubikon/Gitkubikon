@@ -1,89 +1,49 @@
-## 👋 Hey there! I'm Nikita Friesen
+# Welcome to My GitHub
 
-### 🌟 Software Engineer | Digital Artist | UX Enthusiast
-
-Welcome to my corner of the digital world! I'm passionate about merging technology and creativity to craft seamless user experiences and stunning visuals.
+### Nikita Friesen | Software Engineer & Digital Artist
 
 ---
 
-### 🛠️ Skills & Tools
-
-- **Languages**:  
-  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Frameworks**:  
-  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Design**:  
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Banner](https://via.placeholder.com/800x200.png?text=Explore+Innovation+and+Creativity)
 
 ---
 
-### 🌱 Current Focus
+## About Me
 
-- **HIVE Systems**: Leading frontend development for drone fleet management.
-- **Freelance Projects**: Creating compelling digital art and logos.
-
----
-
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitafriesen74@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://sputnix.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitkubikon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-friesen)
+I'm a passionate developer and artist, blending technology and creativity. Currently studying **User Experience Design** at the Technical University Ingolstadt, I focus on innovative solutions that enhance user experiences.
 
 ---
 
-### 🌍 Languages
+## Skills
 
-- **German**: Native
-- **Russian**: Native
-- **English**: C1
-- **Japanese**: Basic
+**Programming**  
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
-
-### 📜 Certifications
-
-- **DO-178C Certified**
-- **A1/A3 Drone Pilot License**
+**Design**  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🎨 Featured Projects
+## Connect with Me
 
-- **[HIVE Dashboard](#)**: Advanced interface for drone operations.
-- **[Digital Art Portfolio](#)**: Logos, illustrations, and more!
-
----
-
-### 🎵 Fun Facts
-
-- 🎶 Music enthusiast with a background in music education.
-- 🏞️ Love hiking and exploring nature trails.
-- 🚀 Sci-fi movies and books are my go-to for inspiration.
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikitafriesen74@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](http://sputnix.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-friesen)
 
 ---
 
-### 💡 Quote of the Day
+## Projects
 
-> "Creativity is intelligence having fun." - Albert Einstein
+- **HIVE Dashboard**  
+  Frontend development for drone management systems.
+
+- **Freelance Art**  
+  Creating impactful logos and illustrations.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
-
---- 
-
-### 🔗 Quick Links
-
-- **[Resume](https://drive.google.com/file/d/1OxkKNIkDEUl4iwIXMlYlyMaddROR6RmZ/view?usp=sharing)**
-- **[Gabrieli Gymnasium](https://www.gabrieli-gymnasium.de/menschen/schuelervertretung/schulkleidung/)**
-
-Feel free to connect with me and check out my projects! I'm always excited to collaborate and learn from others in the tech and design community.
+Feel free to explore my repositories and reach out for collaborations!
