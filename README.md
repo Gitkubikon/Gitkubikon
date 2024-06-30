@@ -11,33 +11,33 @@
 ## 🛠 Skills
 
 ### Programming Languages & Technologies
-- <img src="https://skillicons.dev/icons?i=python" width="24px"/> **Python**
-- <img src="https://skillicons.dev/icons?i=svelte" width="24px"/> **Svelte**
-- <img src="https://skillicons.dev/icons?i=typescript" width="24px"/> **TypeScript**
-- <img src="https://skillicons.dev/icons?i=javascript" width="24px"/> **JavaScript**
-- <img src="https://skillicons.dev/icons?i=html" width="24px"/> **HTML**
-- <img src="https://skillicons.dev/icons?i=css" width="24px"/> **CSS**
-- <img src="https://skillicons.dev/icons?i=bash" width="24px"/> **Shell Scripting**
+- <img src="https://cdn.simpleicons.org/python" width="24px"/> **Python**
+- <img src="https://cdn.simpleicons.org/svelte" width="24px"/> **Svelte**
+- <img src="https://cdn.simpleicons.org/typescript" width="24px"/> **TypeScript**
+- <img src="https://cdn.simpleicons.org/javascript" width="24px"/> **JavaScript**
+- <img src="https://cdn.simpleicons.org/html5" width="24px"/> **HTML**
+- <img src="https://cdn.simpleicons.org/css3" width="24px"/> **CSS**
+- <img src="https://cdn.simpleicons.org/gnubash" width="24px"/> **Shell Scripting**
 
 ### Artificial Intelligence
-- <img src="https://skillicons.dev/icons?i=ai" width="24px"/> **Expertise in AI**
+- <img src="https://cdn.simpleicons.org/openai" width="24px"/> **Expertise in AI**
   - Focus on **Midjourney** and **ChatGPT** for developing intelligent solutions.
 
 ### Graphic Design
-- <img src="https://skillicons.dev/icons?i=ps" width="24px"/> **Adobe Photoshop**
-- <img src="https://skillicons.dev/icons?i=ai" width="24px"/> **Adobe Illustrator**
-- <img src="https://skillicons.dev/icons?i=figma" width="24px"/> **Figma**
-- <img src="https://skillicons.dev/icons?i=indesign" width="24px"/> **Adobe InDesign**
+- <img src="https://cdn.simpleicons.org/adobephotoshop" width="24px"/> **Adobe Photoshop**
+- <img src="https://cdn.simpleicons.org/adobeillustrator" width="24px"/> **Adobe Illustrator**
+- <img src="https://cdn.simpleicons.org/figma" width="24px"/> **Figma**
+- <img src="https://cdn.simpleicons.org/adobeindesign" width="24px"/> **Adobe InDesign**
 
 ### Languages
-- <img src="https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg" width="24px"/> **German** (Native)
-- <img src="https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fa.svg" width="24px"/> **Russian** (Native)
-- <img src="https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg" width="24px"/> **English** (C1)
-- <img src="https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg" width="24px"/> **Japanese** (Basic)
+- <img src="https://cdn.simpleicons.org/nodot/german" width="24px"/> **German** (Native)
+- <img src="https://cdn.simpleicons.org/nodot/russian" width="24px"/> **Russian** (Native)
+- <img src="https://cdn.simpleicons.org/nodot/english" width="24px"/> **English** (C1)
+- <img src="https://cdn.simpleicons.org/nodot/japanese" width="24px"/> **Japanese** (Basic)
 
 ### Certifications
-- <img src="https://skillicons.dev/icons?i=drone" width="24px"/> **DO-178C Certification**
-- <img src="https://skillicons.dev/icons?i=pilot" width="24px"/> **A1/A3 Drone Pilot License**
+- <img src="https://cdn.simpleicons.org/dji" width="24px"/> **DO-178C Certification**
+- <img src="https://cdn.simpleicons.org/nodot/pilot" width="24px"/> **A1/A3 Drone Pilot License**
 
 ## 📫 Contact
 - 🌐 [Website](http://sputnix.me)
@@ -51,8 +51,7 @@ Feel free to reach out if you have any questions or if you want to collaborate o
 
 <div align="center">
 
-![Thanks for Visiting](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
-
 ### Feel free to explore my repositories and reach out for collaborations!
 
 </div>
+
