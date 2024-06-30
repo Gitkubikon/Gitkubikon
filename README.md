@@ -21,7 +21,7 @@
 
 ### Artificial Intelligence
 - ![AI](https://img.icons8.com/color/48/000000/robot.png) **Expertise in AI**
-  - Focus on **Midjourney** and **ChatGPT** for developing intelligent solutions.
+  - Focus on **Midjourney** and **ChatGPT** for intelligent solutions.
 
 ### Graphic Design
 - ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) **Adobe Photoshop**
@@ -49,7 +49,6 @@
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
-
 <div align="center">
 
 ![Thanks for Visiting](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
@@ -57,7 +56,3 @@ Feel free to reach out if you have any questions or if you want to collaborate o
 ### Feel free to explore my repositories and reach out for collaborations!
 
 </div>
-
-
-</div>
-
