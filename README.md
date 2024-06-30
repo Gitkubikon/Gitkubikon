@@ -23,12 +23,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### Artificial Intelligence
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
-  <span>Expertise in AI with a focus on Midjourney and ChatGPT</span>
-</p>
-
 ### Graphic Design
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -64,9 +58,7 @@
 ---
 
 <div align="center">
-
-![Thanks for Visiting](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
-
+  
 ### Feel free to explore my repositories and reach out for collaborations!
 
 </div>
