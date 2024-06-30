@@ -40,16 +40,23 @@
 - <img src="https://cdn.simpleicons.org/nodot/pilot" width="24px"/> **A1/A3 Drone Pilot License**
 
 ## 📫 Contact
-- 🌐 [Website](http://sputnix.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikita-friesen)
-- 🐙 [GitHub](https://github.com/Gitkubikon)
-- ✉️ [Email](mailto:nikitafriesen74@gmail.com)
+- <img src="https://cdn.simpleicons.org/internetexplorer" width="24px"/> [Website](http://sputnix.me)
+- <img src="https://cdn.simpleicons.org/linkedin" width="24px"/> [LinkedIn](https://www.linkedin.com/in/nikita-friesen)
+- <img src="https://cdn.simpleicons.org/github" width="24px"/> [GitHub](https://github.com/Gitkubikon)
+- <img src="https://cdn.simpleicons.org/maildotru" width="24px"/> [Email](mailto:nikitafriesen74@gmail.com)
 
 ---
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
 <div align="center">
+
+![Thanks for Visiting](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
+
+### Feel free to explore my repositories and reach out for collaborations!
+
+</div>
+
 
 ### Feel free to explore my repositories and reach out for collaborations!
 
