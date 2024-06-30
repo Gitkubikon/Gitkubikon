@@ -1,51 +1,42 @@
-## 👋 Hi, I'm Nikita Friesen!
+## 👋 Hey there! I'm Nikita Friesen
 
 ### 🌟 Software Engineer | Digital Artist | UX Enthusiast
 
-I'm a passionate software engineer and digital artist, currently pursuing a Bachelor of Science in User Experience Design at the Technical University Ingolstadt. With a strong background in both technical and creative fields, I thrive on building innovative solutions that enhance user experiences.
+Welcome to my corner of the digital world! I'm passionate about merging technology and creativity to craft seamless user experiences and stunning visuals.
 
 ---
 
-### 🔧 Skills
+### 🛠️ Skills & Tools
 
-- **Programming**: Shell, Python, Svelte, TypeScript, JavaScript, HTML, CSS
-- **Artificial Intelligence**: Expertise in AI with Midjourney and ChatGPT
-- **Graphic Design**: Adobe Photoshop, Illustrator, Figma, InDesign
-- **Languages**: German (Native), Russian (Native), English (C1), Japanese (Basic)
+- **Languages**:  
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+- **Frameworks**:  
+  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎓 Education
-
-- **Bachelor of Science in User Experience Design**  
-  *Technical University Ingolstadt*  
-  *Expected Graduation: July 2026*
-
-- **Abitur with Additum Music**  
-  *Gabrieli-Gymnasium, Bavaria, Germany*  
-  *Graduated: June 2022*
+- **Design**:  
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 💼 Experience
+### 🌱 Current Focus
 
-- **Software Engineer (Co-op)**  
-  *HIVE Systems, Nuremberg*  
-  *Oct 2022 - Present*  
-  Led the development of the HIVE Dashboard frontend, enhancing drone fleet management.
+- **HIVE Systems**: Leading frontend development for drone fleet management.
+- **Freelance Projects**: Creating compelling digital art and logos.
 
-- **Software Development Intern**  
-  *IDL - Institute for Digital Learning, Eichstätt*  
-  *May 2021 - July 2022*  
-  Contributed to programming and team collaboration, improving software solutions.
+---
 
-- **Freelance Digital Artist**  
-  *Aug 2018 - Present*  
-  Created logos and illustrations for Twitch channels, schools, and music projects.
+### 📫 Connect with Me
 
-- **Sales Intern & Promoter**  
-  *Expert e-Commerce GmbH & SodaStream, Bavaria*  
-  Managed sales and promotional activities, boosting customer engagement.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitafriesen74@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://sputnix.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitkubikon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-friesen)
 
 ---
 
@@ -54,32 +45,45 @@ I'm a passionate software engineer and digital artist, currently pursuing a Bach
 - **German**: Native
 - **Russian**: Native
 - **English**: C1
-- **Japanese**: Basic Proficiency
+- **Japanese**: Basic
 
 ---
 
 ### 📜 Certifications
 
-- **DO-178C Certification**
+- **DO-178C Certified**
 - **A1/A3 Drone Pilot License**
 
 ---
 
-### 📫 Connect with Me
+### 🎨 Featured Projects
 
-- **Email**: [nikitafriesen74@gmail.com](mailto:nikitafriesen74@gmail.com)
-- **Website**: [sputnix.me](http://sputnix.me)
-- **GitHub**: [Gitkubikon](https://github.com/Gitkubikon)
-- **LinkedIn**: [Nikita Friesen](https://www.linkedin.com/in/nikita-friesen)
+- **[HIVE Dashboard](#)**: Advanced interface for drone operations.
+- **[Digital Art Portfolio](#)**: Logos, illustrations, and more!
 
 ---
 
-### ✨ Fun Facts
+### 🎵 Fun Facts
 
-- I'm a music enthusiast with a strong background in music education.
-- I love exploring new technologies and pushing the boundaries of creativity.
-- Hiking and nature trails are my go-to activities for relaxation.
+- 🎶 Music enthusiast with a background in music education.
+- 🏞️ Love hiking and exploring nature trails.
+- 🚀 Sci-fi movies and books are my go-to for inspiration.
 
 ---
+
+### 💡 Quote of the Day
+
+> "Creativity is intelligence having fun." - Albert Einstein
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
+
+--- 
+
+### 🔗 Quick Links
+
+- **[Resume](https://drive.google.com/file/d/1OxkKNIkDEUl4iwIXMlYlyMaddROR6RmZ/view?usp=sharing)**
+- **[Gabrieli Gymnasium](https://www.gabrieli-gymnasium.de/menschen/schuelervertretung/schulkleidung/)**
 
 Feel free to connect with me and check out my projects! I'm always excited to collaborate and learn from others in the tech and design community.
