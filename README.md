@@ -4,7 +4,7 @@
 
 ---
 
-![Banner](https://via.placeholder.com/800x200.png?text=Innovation+and+Creativity+Unleashed)
+![Banner](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Innovation.gif)
 
 ---
 
@@ -46,7 +46,6 @@ I'm a passionate developer and artist, blending technology and creativity. Curre
 
 ---
 
-![Art Showcase](https://via.placeholder.com/800x200.png?text=Discover+My+Art+Portfolio)
+![Art Showcase](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Art-Portfolio.gif)
 
 Feel free to explore my repositories and reach out for collaborations!
-
