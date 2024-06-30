@@ -8,55 +8,64 @@
 
 </div>
 
+---
+
 ## 🛠 Skills
 
 ### Programming Languages & Technologies
-- <img src="https://cdn.simpleicons.org/python" width="24px"/> **Python**
-- <img src="https://cdn.simpleicons.org/svelte" width="24px"/> **Svelte**
-- <img src="https://cdn.simpleicons.org/typescript" width="24px"/> **TypeScript**
-- <img src="https://cdn.simpleicons.org/javascript" width="24px"/> **JavaScript**
-- <img src="https://cdn.simpleicons.org/html5" width="24px"/> **HTML**
-- <img src="https://cdn.simpleicons.org/css3" width="24px"/> **CSS**
-- <img src="https://cdn.simpleicons.org/gnubash" width="24px"/> **Shell Scripting**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 ### Artificial Intelligence
-- <img src="https://cdn.simpleicons.org/openai" width="24px"/> **Expertise in AI**
-  - Focus on **Midjourney** and **ChatGPT** for developing intelligent solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
+  <span>Expertise in AI with a focus on Midjourney and ChatGPT</span>
+</p>
 
 ### Graphic Design
-- <img src="https://cdn.simpleicons.org/adobephotoshop" width="24px"/> **Adobe Photoshop**
-- <img src="https://cdn.simpleicons.org/adobeillustrator" width="24px"/> **Adobe Illustrator**
-- <img src="https://cdn.simpleicons.org/figma" width="24px"/> **Figma**
-- <img src="https://cdn.simpleicons.org/adobeindesign" width="24px"/> **Adobe InDesign**
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
+</p>
 
 ### Languages
-- <img src="https://cdn.simpleicons.org/nodot/german" width="24px"/> **German** (Native)
-- <img src="https://cdn.simpleicons.org/nodot/russian" width="24px"/> **Russian** (Native)
-- <img src="https://cdn.simpleicons.org/nodot/english" width="24px"/> **English** (C1)
-- <img src="https://cdn.simpleicons.org/nodot/japanese" width="24px"/> **Japanese** (Basic)
+<p align="center">
+  <img src="https://img.shields.io/badge/German-000000?style=for-the-badge&logo=deutschebank&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Russian-000000?style=for-the-badge&logo=rss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-000000?style=for-the-badge&logo=americanexpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Japanese-000000?style=for-the-badge&logo=duolingo&logoColor=white"/>
+</p>
 
 ### Certifications
-- <img src="https://cdn.simpleicons.org/dji" width="24px"/> **DO-178C Certification**
-- <img src="https://cdn.simpleicons.org/nodot/pilot" width="24px"/> **A1/A3 Drone Pilot License**
-
-## 📫 Contact
-- <img src="https://cdn.simpleicons.org/internetexplorer" width="24px"/> [Website](http://sputnix.me)
-- <img src="https://cdn.simpleicons.org/linkedin" width="24px"/> [LinkedIn](https://www.linkedin.com/in/nikita-friesen)
-- <img src="https://cdn.simpleicons.org/github" width="24px"/> [GitHub](https://github.com/Gitkubikon)
-- <img src="https://cdn.simpleicons.org/maildotru" width="24px"/> [Email](mailto:nikitafriesen74@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/DO--178C%20Certification-FF0000?style=for-the-badge&logo=drone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A1/A3%20Drone%20Pilot%20License-FF0000?style=for-the-badge&logo=drone&logoColor=white"/>
+</p>
 
 ---
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
+## 📫 Contact
+<p align="center">
+  <a href="http://sputnix.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikita-friesen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Gitkubikon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nikitafriesen74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 <div align="center">
 
 ![Thanks for Visiting](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
-
-### Feel free to explore my repositories and reach out for collaborations!
-
-</div>
-
 
 ### Feel free to explore my repositories and reach out for collaborations!
 
